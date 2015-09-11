@@ -1,0 +1,10 @@
+id: RelativeURL
+name: RelativeURL
+version: 1.0.0
+description: 絶対URIをサイトルートからのパスに変換します。
+author_name: Hideki Abe
+author_link: https://www.anothersky.pw/
+
+tags:
+    modifier:
+        relative: $RelativeURL::RelativeURL::Tags::_hdlr_relativeurl
